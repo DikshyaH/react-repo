@@ -1,3 +1,8 @@
+# More info on the repository -
+1. class-component branch -> webpage for searching products using class components
+2. functional-component branch -> webpage for searching products using functional components 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
